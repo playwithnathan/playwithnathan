@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I’m Nathan Gamache, 17.
+I’m Nathan Gamache.
+I like to work on Minecraft plugins, Discord bots, and websites.
 
 ### 📊 GitHub Stats
 
