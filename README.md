@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Nathan Gamache, 17, from _Italy_.
+I’m Nathan Gamache, 17.
 
 ### 📊 GitHub Stats
 
